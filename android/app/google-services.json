@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485472509106",
+    "project_id": "flutterfire-eedea",
+    "storage_bucket": "flutterfire-eedea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485472509106:android:2fc020d33742875911fdab",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485472509106-lb6lc97jc33k9g77v30kehgtnhhrf5tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterfire",
+            "certificate_hash": "7102552cf3e33d1dc0e31737e80cd0efcf44934b"
+          }
+        },
+        {
+          "client_id": "485472509106-dif6t8qbibipirueos9ir0cclfsh8o9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlSK5XhG-OIY3Y7ad85FYfk5OLfKbZL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485472509106-dif6t8qbibipirueos9ir0cclfsh8o9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
